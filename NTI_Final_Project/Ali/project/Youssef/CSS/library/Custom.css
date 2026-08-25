@@ -1,0 +1,39 @@
+:root
+{
+    --white : #fff ;
+    --black : #000 ;
+
+    --hard-primary : #2C742F ;
+    --primary : #00B207 ;
+    --soft-primary : #84D187 ;
+
+    --warning : #FF8A00 ;
+    --danger : #EA4B48 ;
+
+    --gray-9  : #1A1A1A ;
+    --gray-8  : #333333 ;
+    --gray-7  : #4D4D4D ;
+    --gray-6  : #666666 ;
+    --gray-5  : #808080 ;
+    --gray-4  : #999999 ;
+    --gray-3  : #B3B3B3 ;
+    --gray-2  : #CCCCCC ;
+    --gray-1  : #E5E5E5 ;
+    --gray-05 : #F2F2F2 ;
+ 
+    --green-g-9  : #002603 ;
+    --green-g-8  : #173B1A ;
+    --green-g-7  : #2B572E ;
+    --green-g-6  : #406B42 ;
+    --green-g-5  : #406B42 ;
+    --green-g-4  : #7A997C ;
+    --green-g-3  : #96B297 ;
+    --green-g-2  : #B4CCB4 ;
+    --green-g-1  : #DAE5DA ;
+    --green-g-05 : #EDF2EE ;
+}
+
+body {
+    font-family: "Google Sans Flex", "sans-serif" ;
+}
+

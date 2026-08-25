@@ -1,0 +1,105 @@
+.btn-bg-none
+{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.border-left_1
+{
+    padding-left: 2%;
+    border-left: 0.1rem solid var(--gray-1) ;
+}
+
+.border-left_2
+{
+    border-left: 0.1rem solid var(--gray-2) ;
+    padding: 0 2%;   
+    margin: 0 2%;   
+}
+
+#Header
+{
+    height: 100vh;
+    background-color: turquoise;
+}
+
+.nav_01
+{
+    color: var(--gray-6);
+    font-size: 0.7rem;
+}
+
+hr
+{
+    color: var(--gray-6);
+}
+
+
+.nav_02 .shop_cart p {
+    font-size: 0.75rem;
+    color: var(--gray-7);
+}
+.nav_02 .shop_cart h5 {
+    font-size: 1rem;
+}
+
+.nav_02 .ed
+{
+    border: 1px solid var(--primary);    
+}
+
+.nav_02 .ed button
+{
+    background-color: var(--primary);
+    color: #fff;
+}
+
+
+.nav_02 .rd .badge
+{
+    background-color: var(--hard-primary);
+}
+
+/* .nav_02 .rd button
+{
+    border: none;
+} */
+
+
+.nav_02 .rd .icon 
+{
+    color: var(--gray-9) ;
+    font-size: 1.3rem;
+    width: 20px;
+    height: 20px;
+}
+
+.nav_03
+{
+    background-color: var(--gray-8);
+}
+
+.nav_03 .content_03 a
+{
+    color: #999999 ;
+}
+
+.nav_03 .content_03 a.active
+{
+    color: var(--white);
+}
+
+
+.nav_03 .content_03 a.ddl
+{
+    padding: 0;
+} 
+
+
+/* .gallery .row .col-8 ,
+.gallery .row .col-4
+{
+    height: 70vh;
+} */
+
